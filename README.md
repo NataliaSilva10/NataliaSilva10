@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm currently working on a project in javascript and react.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaSilva10&layout=compact)](https://github.com/NataliaSilva10/github-readme-statstheme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaSilva10&layout=dark)](https://github.com/NataliaSilva10/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliaSilva10&show_icons=true&theme=cobalt)
 ****
 

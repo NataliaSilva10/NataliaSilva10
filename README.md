@@ -1,6 +1,7 @@
 ## Hi there 👋
 I'm currently working on a project in javascript and react.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliaSilva10&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaSilva10&hide_progress=true)](https://github.com/NataliaSilva10/github-readme-stats)
 ****
 
 <div style="display: inline_block"><br>
@@ -16,7 +17,7 @@ I'm currently working on a project in javascript and react.
   
   ##
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaSilva10&hide_progress=true)](https://github.com/NataliaSilva10/github-readme-stats)
+
 <div> 
   
  

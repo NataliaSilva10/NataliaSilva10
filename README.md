@@ -1,7 +1,6 @@
 ## Hi there 👋
 I'm currently working on a project in javascript and react.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliaSilva10)](https://github.com/NataliaSilva10/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliaSilva10&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliaSilva10&show_icons=true&theme=cobalt)
 ****
 
 <div style="display: inline_block"><br>

@@ -1,4 +1,4 @@
-Hey👋 I'm Natalia! 
+### Hey👋 I'm Natalia! 
 Full stack developer 👯
 
 - 🌱 Self-taught and constantly growing
@@ -36,6 +36,8 @@ My knowledge : Javascript, Typescript, React.js, Next.js, Node, Git, Java, Pytho
 
 <div> 
   
+ 
+### 💬Connect with me:
 
  <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:nataliamirandaus10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

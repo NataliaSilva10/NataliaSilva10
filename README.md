@@ -6,7 +6,7 @@ I'm currently working on a project in javascript and react.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliaSilva10&show_icons=true&theme=cobalt)
 
 ****
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaSilva10&hide_progress=true)](https://github.com/NataliaSilva10/github-readme-stats&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaSilva10&hide_progress=true)](https://github.com/NataliaSilva10/github-readme-stats&theme=dark)
 
 
 <div style="display: inline_block"><br>
@@ -16,8 +16,7 @@ I'm currently working on a project in javascript and react.
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
 </div>
   
   ##

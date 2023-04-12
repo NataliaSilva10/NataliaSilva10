@@ -24,10 +24,6 @@ My knowledge : Javascript, Typescript, React.js, Next.js, Node, Git, Java, Pytho
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliaSilva10&show_icons=true&theme=cobalt)
 
-****
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaSilva10&hide_progress=true)](https://github.com/NataliaSilva10/github-readme-stats&theme=cobalt)
-
-
 
 
   

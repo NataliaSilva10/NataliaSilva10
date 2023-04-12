@@ -6,6 +6,8 @@ Full stack developer from Brazil 👯
 - ☕ Open to talk, share knowledge and learn new things.
 - ⚡ Enthusiastic about art, science and technology. I also like board games.🎆
 
+My knowledge : Javascript, Typescript, React.js, Next.js, Node, Git, Java, Python.
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">

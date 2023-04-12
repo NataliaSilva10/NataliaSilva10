@@ -16,7 +16,8 @@ WELCOME TO MY GITHUB
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-</div>
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px src="![image](https://user-images.githubusercontent.com/116288733/231528274-53a017d5-e380-4f6b-874d-c084881f0131.png)";" 
+       </div>
   
   ##
  

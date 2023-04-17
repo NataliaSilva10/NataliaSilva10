@@ -4,7 +4,7 @@ Full stack developer  👯
 - 🌱 Self-taught and constantly growing
 - 💻 Currently studying the Certified Tech Developer degree
 - ☕ Open to talk, share knowledge and learn new things.
-- ⚡ Enthusiastic about art, science and technology. I also like board games.🎆
+- ⚡ Enthusiastic about art, science and technology. I also like paint.
 
 My knowledge : Javascript, Typescript, React.js, Next.js, Node, Git, Java, Python and C Sharp.
 

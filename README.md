@@ -1,5 +1,5 @@
 ### Hey👋 I'm Natalia! 
-Full stack developer 👯
+Full stack developer  👯
 
 - 🌱 Self-taught and constantly growing
 - 💻 Currently studying the Certified Tech Developer degree

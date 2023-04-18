@@ -1,4 +1,5 @@
 ### Hey👋 I'm Natalia! 
+
 Full stack developer  👯
 
 - 🌱 Self-taught and constantly growing
@@ -6,7 +7,7 @@ Full stack developer  👯
 - ☕ Open to talk, share knowledge and learn new things.
 - ⚡ Enthusiastic about art, science and technology
 
-My knowledge : Javascript, Typescript, React.js, Next.js, Node, Git, Java, Python and C Sharp.
+ My knowledge : Javascript, Typescript, React.js, Next.js, Node, Git, Java, Python and C Sharp.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

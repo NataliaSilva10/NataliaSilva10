@@ -2,7 +2,6 @@
 
 Full stack developer  👯
 
-
 - 🌱 Self-taught and constantly growing
 - 💻 Currently studying the Certified Tech Developer degree
 - ☕ Open to talk, share knowledge and learn new things.

@@ -1,4 +1,4 @@
-### Hey👋 I'm Natalia! 
+### Hey👋 I'm Natalia ! 
 
 Full stack developer👯
 

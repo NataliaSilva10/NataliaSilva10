@@ -2,7 +2,7 @@
 
 Full stack developer👯
 
-- 🌱 Self-taught and constantly growing
+- 🌱 Self-taught and constantly  growing
 - 💻 Currently bootcamp graduated.
 - ☕ Open to talk, share knowledge and learn new things. 
 - ⚡ Enthusiastic  about art, science and technology

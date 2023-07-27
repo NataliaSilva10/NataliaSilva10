@@ -1,11 +1,7 @@
 ### Hey👋 I'm Natalia ! 
 
-Full stack developer👯
+I'm a full stack developer with expertise in Python, Java, and MERN from New York! I am passionate about leveraging my skills to develop innovative solutions to complex problems. With a solid foundation in coding principles and techniques gained through completion of my program at Coding Dojo, I am well-equipped to design and build software that delivers exceptional value to end-users. I'm excited to take on new challenges and continue learning as I pursue a career in software development.
 
-- 🌱 Self-taught and constantly growing.
-- 💻 bootcamp graduated.
-- ☕ Open to talk, share knowledge and learn new things. 
-- ⚡ Enthusiastic  about art, science and technology
 
  My knowledge : Javascript, Typescript, React.js, Next.js, Node, Git, Java, Python and C Sharp.
  

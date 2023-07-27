@@ -1,26 +1,14 @@
 ### Hey👋 I'm Natalia ! 
 
+## About me:
 I'm a full stack developer with expertise in Python, Java, and MERN from New York! I am passionate about leveraging my skills to develop innovative solutions to complex problems. With a solid foundation in coding principles and techniques gained through completion of my program at Coding Dojo, I am well-equipped to design and build software that delivers exceptional value to end-users. I'm excited to take on new challenges and continue learning as I pursue a career in software development.
 
 
- My knowledge : Javascript, Typescript, React.js, Next.js, Node, Git, Java, Python and C Sharp.
+## My knowledge: 
+Javascript, Typescript, React.js, Next.js, Node, Git, Java, Python and C Sharp.
  
-<div style="display: inline_block"><br
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px !
-  [image](https://user-images.githubusercontent.com/116288733/231528274-53a017d5-e380-4f6b-874d-c084881f0131.png)";" 
-       </div>
 
 
-
-<div> 
-  
   
  
 ### 💬Connect with me:

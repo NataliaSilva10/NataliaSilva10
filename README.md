@@ -1,7 +1,7 @@
 ### Hey👋 I'm Natalia ! 
 
 ## About me:
-I'm a fullstack developer with experience in building efficient and user-friendly web applications using a variety of technologies such a Python, Django, JavaScript & React, I combine my coding and design skills to create engaging and user-friendly web applications for various clients.
+I'm a fullstack developer with experience in building efficient and user-friendly web applications using a variety of technologies such a Python, Django, JavaScript & React, I combine my coding and design skills to create engaging and user-friendly web applications.
 
  
 ### 💬Connect with me:

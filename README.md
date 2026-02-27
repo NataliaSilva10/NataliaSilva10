@@ -1,6 +1,6 @@
 ### Hey👋 I'm Natalia! 
 ## About me:
-I'm a fullstack developer with experience in building efficient and user-friendly web applications and also art criative skills.
+I'm a fullstack developer with experience in building efficient and user-friendly web applications and also art criative skills .
 
  
 ### 💬Connect with me:
